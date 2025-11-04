@@ -33,16 +33,16 @@ const perguntas = [
                 texto: " Jogos de ação e aventuras. ",
                 afirmacao: [
                     " Você curte um desafio a mais e prioriza sua vitória, mesmo com mais desafios",
-                    " A adrenalina te move, e cada obstáculo é uma chance de mostrar sua habilidade.",
-                    " Você busca intensidade e emoção, onde cada segundo conta e a vitória é conquistada com suor."
+                    " A adrenalina te move, e cada obstáculo é uma chance de mostrar sua habilidade",
+                    " Você busca intensidade e emoção, onde cada segundo conta e a vitória é conquistada com suor"
                 ],
             },
             {
                 texto: " jogos com mapas abertos e histórias pré-moldadas. ",
                 afirmacao: [
-                    " Você se conforta com o que o destino pode te proporcionar, sem ter pressa para o futuro.",
-                    " A liberdade de explorar sem pressa te permite mergulhar em narrativas ricas e paisagens vastas.",
-                    " Você aprecia a jornada tanto quanto o destino, deixando-se levar por histórias bem construídas."
+                    " Você se conforta com o que o destino pode te proporcionar, sem ter pressa para o futuro",
+                    " A liberdade de explorar sem pressa te permite mergulhar em narrativas ricas e paisagens vastas",
+                    " Você aprecia a jornada tanto quanto o destino, deixando-se levar por histórias bem construídas"
                 ],
             }
         ]
@@ -53,17 +53,17 @@ const perguntas = [
             {
                 texto: " Prefiro jogos com desafios difíceis, pois gosto de testar minhas habilidades, pensar estrategicamente e sentir aquela sensação de conquista ao superar obstáculos.",
                 afirmacao: [
-                    " Jogos difíceis exigem raciocínio, paciência e persistência, o que pode ser muito gratificante. A sensação de vencer algo complicado traz orgulho e motivação, funcionando quase como uma recompensa emocional por todo o esforço investido.",
-                    " Superar um desafio complexo é como resolver um quebra-cabeça: exige foco, mas a recompensa é imensa.",
-                    " Jogos difíceis transformam cada vitória em uma conquista memorável, reforçando sua evolução como jogador."
+                    " Jogos difíceis exigem raciocínio, paciência e persistência, o que pode ser muito gratificante. A sensação de vencer algo complicado traz orgulho e motivação, funcionando quase como uma recompensa emocional por todo o esforço investido",
+                    " Superar um desafio complexo é como resolver um quebra-cabeça: exige foco, mas a recompensa é imensa",
+                    " Jogos difíceis transformam cada vitória em uma conquista memorável, reforçando sua evolução como jogador"
                 ],
             },
             {
                 texto: " Gosto mais de jogos fáceis e relaxantes, porque eles me ajudam a descontrair, curtir a experiência sem pressão e aproveitar o tempo de forma leve. ",
                 afirmacao: [
-                    " Jogos fáceis e relaxantes oferecem um ambiente acolhedor, sem a necessidade de competir ou enfrentar grandes desafios. Eles são ideais para momentos de descanso, ajudando a aliviar o estresse e proporcionando diversão leve. Além disso, permitem que o jogador aproveite a narrativa, os gráficos ou a música com calma, tornando a experiência mais contemplativa e prazerosa.",
-                    " A leveza desses jogos permite que você se desconecte do mundo real e apenas aproveite o momento.",
-                    " Eles são como um refúgio digital, onde o prazer está na simplicidade e na beleza da experiência."
+                    " Jogos fáceis e relaxantes oferecem um ambiente acolhedor, sem a necessidade de competir ou enfrentar grandes desafios. Eles são ideais para momentos de descanso, ajudando a aliviar o estresse e proporcionando diversão leve. Além disso, permitem que o jogador aproveite a narrativa, os gráficos ou a música com calma, tornando a experiência mais contemplativa e prazerosa",
+                    " A leveza desses jogos permite que você se desconecte do mundo real e apenas aproveite o momento",
+                    " Eles são como um refúgio digital, onde o prazer está na simplicidade e na beleza da experiência"
                 ],
             }
         ]
@@ -74,17 +74,17 @@ const perguntas = [
             {
                 texto: " Eu recomendaria Minecraft, porque é um jogo criativo e versátil que permite construir mundos, explorar e jogar com amigos. É ótimo para desenvolver imaginação e trabalhar em equipe. ",
                 afirmacao: [
-                    " recomendação destaca o valor educativo e social de Minecraft. O jogo oferece um ambiente aberto onde os jogadores podem construir estruturas, resolver problemas e explorar cenários variados, estimulando a criatividade e o raciocínio lógico. Além disso, por permitir partidas cooperativas, ele promove o trabalho em equipe, a comunicação e a colaboração entre os participantes. É uma experiência que combina diversão com aprendizado, tornando-o ideal para diferentes faixas etárias e estilos de jogo.",
-                    " Minecraft é uma ferramenta lúdica que transforma blocos em possibilidades infinitas de criação e aprendizado.",
-                    " A liberdade criativa do jogo incentiva a expressão pessoal e o desenvolvimento de habilidades cognitivas."
+                    " recomendação destaca o valor educativo e social de Minecraft. O jogo oferece um ambiente aberto onde os jogadores podem construir estruturas, resolver problemas e explorar cenários variados, estimulando a criatividade e o raciocínio lógico. Além disso, por permitir partidas cooperativas, ele promove o trabalho em equipe, a comunicação e a colaboração entre os participantes. É uma experiência que combina diversão com aprendizado, tornando-o ideal para diferentes faixas etárias e estilos de jogo",
+                    " Minecraft é uma ferramenta lúdica que transforma blocos em possibilidades infinitas de criação e aprendizado",
+                    " A liberdade criativa do jogo incentiva a expressão pessoal e o desenvolvimento de habilidades cognitivas"
                 ],
             },
             {
-                texto: " Indicaria FIFA, porque é divertido para quem gosta de futebol, tem gráficos realistas e permite jogar partidas emocionantes com amigos, seja de forma competitiva ou cooperativa.",
+                texto: " Indicaria FIFA, porque é divertido para quem gosta de futebol, tem gráficos realistas e permite jogar partidas emocionantes com amigos, seja de forma competitiva ou cooperativa",
                 afirmacao: [
-                    " FIFA é conhecido por sua fidelidade ao futebol real, com gráficos detalhados, jogabilidade dinâmica e times atualizados. Além disso, o jogo oferece modos cooperativos e competitivos, permitindo que amigos joguem juntos ou se desafiem, o que torna a experiência mais envolvente e divertida. É ideal para quem gosta de esportes e quer sentir a emoção das partidas dentro do universo virtual.",
-                    " FIFA proporciona a emoção do estádio na palma da mão, com partidas intensas e disputas acirradas.",
-                    " É o jogo ideal para reunir amigos e viver a paixão pelo futebol em cada lance e gol marcado."
+                    " FIFA é conhecido por sua fidelidade ao futebol real, com gráficos detalhados, jogabilidade dinâmica e times atualizados. Além disso, o jogo oferece modos cooperativos e competitivos, permitindo que amigos joguem juntos ou se desafiem, o que torna a experiência mais envolvente e divertida. É ideal para quem gosta de esportes e quer sentir a emoção das partidas dentro do universo virtual",
+                    " FIFA proporciona a emoção do estádio na palma da mão, com partidas intensas e disputas acirradas",
+                    " É o jogo ideal para reunir amigos e viver a paixão pelo futebol em cada lance e gol marcado"
                 ],
             }
         ]
