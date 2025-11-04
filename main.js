@@ -12,16 +12,16 @@ const perguntas = [
                 texto: " jogos online nos quais você pode jogar com seus amigos ou com pessoas aleatórias de diferentes regiões do planeta, promovendo uma experiência global e interativa.",
                 afirmacao: [
                     " Interaja e socialize com velhos amigos ou com desconhecidos de terras distantes, a interação está a um clique de distância.",
-                    " A conexão com o mundo acontece em tempo real, criando laços e rivalidades que atravessam fronteiras.",
-                    " Jogar online é como abrir uma janela para culturas diferentes, onde cada partida é uma nova descoberta."
+                    " A conexão com o mundo acontece em tempo real, criando laços e rivalidades que atravessam fronteiras",
+                    " Jogar online é como abrir uma janela para culturas diferentes, onde cada partida é uma nova descoberta"
                 ],
             },
             {
                 texto: " Jogos com aventuras épicas em jogos singleplayer onde você é o protagonista absoluto!",
                 afirmacao: [
-                    " Afirmação 2 - Descubra o poder do silêncio, onde a calma apaga os ruídos da mente.",
-                    " Embarque em jornadas solitárias onde cada decisão molda seu destino e cada passo é seu.",
-                    " A imersão é total quando o mundo gira ao seu redor, sem distrações, apenas você e a história."
+                    " Descubra o poder do silêncio, onde a calma apaga os ruídos da mente",
+                    " Embarque em jornadas solitárias onde cada decisão molda seu destino e cada passo é seu",
+                    " A imersão é total quando o mundo gira ao seu redor, sem distrações, apenas você e a história"
                 ],
             }
         ]
@@ -53,7 +53,7 @@ const perguntas = [
             {
                 texto: " Prefiro jogos com desafios difíceis, pois gosto de testar minhas habilidades, pensar estrategicamente e sentir aquela sensação de conquista ao superar obstáculos.",
                 afirmacao: [
-                    " Afirmação 1 -  Jogos difíceis exigem raciocínio, paciência e persistência, o que pode ser muito gratificante. A sensação de vencer algo complicado traz orgulho e motivação, funcionando quase como uma recompensa emocional por todo o esforço investido.",
+                    " Jogos difíceis exigem raciocínio, paciência e persistência, o que pode ser muito gratificante. A sensação de vencer algo complicado traz orgulho e motivação, funcionando quase como uma recompensa emocional por todo o esforço investido.",
                     " Superar um desafio complexo é como resolver um quebra-cabeça: exige foco, mas a recompensa é imensa.",
                     " Jogos difíceis transformam cada vitória em uma conquista memorável, reforçando sua evolução como jogador."
                 ],
@@ -61,7 +61,7 @@ const perguntas = [
             {
                 texto: " Gosto mais de jogos fáceis e relaxantes, porque eles me ajudam a descontrair, curtir a experiência sem pressão e aproveitar o tempo de forma leve. ",
                 afirmacao: [
-                    " Afirmação 2 -Jogos fáceis e relaxantes oferecem um ambiente acolhedor, sem a necessidade de competir ou enfrentar grandes desafios. Eles são ideais para momentos de descanso, ajudando a aliviar o estresse e proporcionando diversão leve. Além disso, permitem que o jogador aproveite a narrativa, os gráficos ou a música com calma, tornando a experiência mais contemplativa e prazerosa.",
+                    " Jogos fáceis e relaxantes oferecem um ambiente acolhedor, sem a necessidade de competir ou enfrentar grandes desafios. Eles são ideais para momentos de descanso, ajudando a aliviar o estresse e proporcionando diversão leve. Além disso, permitem que o jogador aproveite a narrativa, os gráficos ou a música com calma, tornando a experiência mais contemplativa e prazerosa.",
                     " A leveza desses jogos permite que você se desconecte do mundo real e apenas aproveite o momento.",
                     " Eles são como um refúgio digital, onde o prazer está na simplicidade e na beleza da experiência."
                 ],
