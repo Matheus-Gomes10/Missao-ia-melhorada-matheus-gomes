@@ -61,3 +61,13 @@ button:hover {
     color: var(--cor-destaque);
     line-height: 1.5em;
 }
+
+.caixa-alternativas{
+    dispĺay: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.caixa-resultado{
+    display: block;
+}
